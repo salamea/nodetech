@@ -1,6 +1,6 @@
 function sayHello(name) {
 
-    console.log('Hola'+name + ', como estas?', WC);
+    console.log('Hola'+name + ', como estas?'+ WC);
 
 }
 
